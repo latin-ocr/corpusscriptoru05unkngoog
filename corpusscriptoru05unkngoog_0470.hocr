@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru05unkngoog/corpusscriptoru05unkngoog_0470.png"; bbox 0 0 748 1217; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 182 435 482 462">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 182 435 482 462">
+     <span class='ocr_line' id='line_1_1' title="bbox 182 435 482 462; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 182 435 301 462; x_wconf 86' lang='lat' dir='ltr'>OAROLI</span> <span class='ocrx_word' id='word_1_2' title='bbox 323 436 482 462; x_wconf 78' lang='lat' dir='ltr'><strong>DUOANGII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 320 502 340 516">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 320 502 340 516">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 502 340 516; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 320 502 340 516; x_wconf 72' lang='lat' dir='ltr'><strong>ln</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 76 553 630 579">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 76 553 630 579">
+     <span class='ocr_line' id='line_1_3' title="bbox 76 553 630 579; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 76 553 249 579; x_wconf 87' lang='lat' dir='ltr'><strong>ANNAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 290 553 630 578; x_wconf 62' lang='lat' dir='ltr'><strong>OOMNENAE›</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 249 627 409 648">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 249 627 409 648">
+     <span class='ocr_line' id='line_1_4' title="bbox 249 627 409 648; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 249 627 409 648; x_wconf 75' lang='lat' dir='ltr'><strong>ALEXIADEM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 114 699 546 716">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 114 699 546 716">
+     <span class='ocr_line' id='line_1_5' title="bbox 114 699 546 716; baseline -0.002 0"><span class='ocrx_word' id='word_1_7' title='bbox 114 699 189 716; x_wconf 71' lang='lat' dir='ltr'>NOTAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 204 699 332 715; x_wconf 70' lang='lat' dir='ltr'>HISTORchn</span> <span class='ocrx_word' id='word_1_9' title='bbox 347 699 373 715; x_wconf 85' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 389 699 546 716; x_wconf 70' lang='lat' dir='ltr'>PIHLOLOGICAE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
